@@ -1,6 +1,11 @@
-### Readme - Source
+### Source
 
-This repository includes source code examples developed for CS teaching.
+This repository includes source code examples developed for CS.
 
 #### Contents
-* Comp 441
+* 402
+* 422
+* 424
+* 436
+* 441
+* 488
