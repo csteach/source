@@ -1,6 +1,6 @@
 ### Source
 
-This repository includes source code examples developed for CS.
+This repository includes source code examples developed for CS, including various copies.
 
 #### Contents
 * 125
