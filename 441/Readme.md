@@ -1,8 +1,5 @@
 ### Source - 441
 
-A collection of source code examples developed for CS.
+A collection of source code examples developed for COMP 441.
 
-#### Contents
-* 2015
-* 2016
-* 2017
+*n.b.* currently, source code N/A for 441.
