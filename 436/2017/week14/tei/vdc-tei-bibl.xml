@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Bibliography of Jules Verne's French Language Editions</title>
+            <respStmt>
+               <resp>compiled, edited, and encoded by</resp>
+               <name xml:id="njh">Dr N. J. Hayward</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Verne Digital Corpus</distributor>
+            <address>
+            <addrLine>CTSDH, Loyola University Chicago, IL60626, USA</addrLine>
+            </address>
+            <idno type="VDC">Bib-Fr-1st</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+                  <p>Creative Commons 3.0</p>
+                  <p>Attribution, Noncommercial, and no derivative works</p>
+               </licence>
+            </availability>
+            <date when="2014">2014</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital: no previous source exists.</p>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>Originally compiled for use in the Verne Digital Corpus.</p>
+        </projectDesc>
+     </encodingDesc>
+     <revisionDesc>
+        <list>
+           <item>
+              <date when="2014-11-17">17th November 2014</date> First encoded and edited by Dr N. J. Hayward
+           </item>
+        </list>
+     </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="bibl">
+            <head>Jules Verne Bibliography - French Language Editions</head>
+            <listBibl>
+               <bibl n="1" xml:id="CS1863">
+                  <author>
+                     <name>Verne, Jules</name>   
+                  </author>
+                  <title type="full" level="m">
+                     <title type="main" xml:lang="fr">Cinq Semaines en Ballon</title>
+                     <title type="sub" xml:lang="fr">Voyage de découvertes en Afrique par trois Anglais</title>
+                     <title type="alt" xml:lang="en-GB">Five Weeks in a Balloon</title>
+                  </title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>J. Hetzel</publisher>
+                  <date when="1863-01-31">31st January 1863</date>
+               </bibl>
+               <bibl n="2" xml:id="VC1864">
+                  <author>
+                     <name>Verne, Jules</name>   
+                  </author>
+                  <title type="full" level="m">
+                     <title type="main" xml:lang="fr">Voyage au centre de la terre</title>
+                     <title type="alt" xml:lang="en-GB">Journey to the Centre of the Earth</title>
+                  </title>
+                  <edition>First French Edition</edition>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>J. Hetzel</publisher>
+                  <date when="1864-11-25">25th November 1864</date>
+               </bibl>
+               <bibl n="2" xml:id="VC1867-1">
+                  <author>
+                     <name>Verne, Jules</name>   
+                  </author>
+                  <title type="full" level="m">
+                     <title type="main" xml:lang="fr">Voyage au centre de la terre</title>
+                     <title type="sub" xml:lang="fr">Vignettes Par Riou</title>
+                     <title type="alt" xml:lang="en-GB">Journey to the Centre of the Earth</title>
+                  </title>
+                  <edition>First Illustrated French Edition</edition>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>J. Hetzel</publisher>
+                  <date when="1867-05-13">13th May 1867</date>
+               </bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

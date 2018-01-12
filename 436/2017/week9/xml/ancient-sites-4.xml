@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ancient-sites-4.xsl"?>
+<ancient_sites>
+	<site>
+		<name language="english">Great Pyramid</name>
+		<location>Giza</location>
+		<country>Egypt</country>
+		<description>Khufu's pyramid on the Giza plateau outside Cairo</description>
+		<culture>Ancient Egypt</culture>
+		<history>
+      <period>Old Kingdom</period>
+			<dynasty>4</dynasty>
+			<year era="BC">2580</year>
+		</history>
+		<images>
+			...
+		</images>
+		<notes>...</notes>
+	</site>
+	<site>
+		<name language="english">Abu Simbel</name>
+		<location>Aswan</location>
+		<country>Egypt</country>
+		<description>temple complex built by Ramesses II</description>
+		<culture>Ancient Egypt</culture>
+		<history>
+      <period>New Kingdom</period>
+			<dynasty>19</dynasty>
+			<year era="BC">1264</year>
+		</history>
+		<images>
+			...
+		</images>
+		<notes>...</notes>
+	</site>
+</ancient_sites>

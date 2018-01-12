@@ -1,3 +1,3 @@
-### Source - 436 - 2017
+### Source
 
-A collection of source code examples developed for CS.
+This repository includes weekly source code examples developed for COMP 436.
