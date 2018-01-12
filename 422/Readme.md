@@ -1,6 +1,6 @@
 ### Source - 422
 
-A collection of source code examples developed for CS.
+A collection of source code examples developed for COMP 422.
 
 #### Contents
 * 2015
