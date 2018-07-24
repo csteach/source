@@ -1,0 +1,49 @@
+### Pygame - Game Notes - Game 1 - Shoot Em Up
+
+A few notes on building a simple 'Shoot Em Up' type game with Pygame.
+
+#### Contents
+* Intro
+* Different types
+* Game versions
+  * player/health - part 1
+  * Game/Extras
+* References
+
+#### Intro
+A **Shoot Em Up**, or **STG** in Japan, style game simply allows a player to fire bullets and other weapons at an enemy, whilst trying to avoid their attack.
+
+The classic example, of course, is **Space Invaders**, which largely popularised this genre of game.
+
+However, there are many different examples of this style of game.
+
+#### Different types
+Whilst the general gameplay is the same for each type of STG, there are a few notable variants. For example, we may consider viewpoint and movement as an easy way of differentiating various different examples. These may include,
+
+  * fixed shooters
+  * rail shooters
+  * scrolling shooters
+  * ...
+
+#### Game versions
+The following versions are available:
+
+##### Player/Health - part 1
+  * v1.0 - shooter1.0.py
+    * check player's health
+        * set default health to 100%
+        * decrement health per collision
+          * quit game when health reaches 0
+        * draw status bar to game window
+          * green colour for good health
+          * change to red colour below 40%
+
+  * v1.1
+    * add repetitive firing sequence for player's laser beam
+      * move keypress check for space bar to player class
+      * fire laser beam whilst space pressed down
+      * set interval in ms for firing sequence
+      * check time between now and last firing
+
+#### References
+* [Shoot Em Up](https://en.wikipedia.org/wiki/Shoot_'em_up)

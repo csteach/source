@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- title -->
+    <title>Random Greeting Generator</title>
+  </head>
+  <body>
+    <header>
+      <h2>Create a random greeting...</h2>
+    </header>
+    <main>
+      <!-- elements for getting user input -->
+			<section id="generator">
+				<header>
+					<h3>Enter a name for the greeting</h3>
+				</header>
+				<form>
+          <!-- player input for guessing a letter -->
+					<input name="customName" placeholder="enter a name..." type="text" maxlength="25" autofocus id="name" class="txtInput"/>
+          <!-- send guess letter -->
+					<button type="button" id="greetingBtn">create greeting</button>
+				</form>
+      </section>
+      <!-- elements for outputting generated random greeting -->
+      <section id="output">
+				<header>
+					<h3>Greeting...</h3>
+				</header>
+				<p id="greeting"></p>
+      </section>
+    </main>
+		<footer>
+		  <p>developed by ancientlives</p>
+		</footer>
+		<!-- script files -->
+		<script src="./assets/js/greeting.js"></script>
+  </body>
+</html>
