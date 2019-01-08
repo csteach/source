@@ -1,0 +1,34 @@
+/*
+* styles.css - general css styles
+*/
+
+body {
+  width: 900px;
+  margin: auto;
+  background: #fff;
+  font-size: 15px;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+header {
+  margin: 10px;
+  border-bottom: 1px solid #000;
+}
+
+table {
+  margin: 20px;
+  border-top: 1px solid #555;
+  border-left: 1px solid #555;
+  border-collapse: collapse;
+}
+
+table caption {
+  margin: 20px;
+  text-align: left;
+}
+
+th, td {
+  padding: 10px;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
+}

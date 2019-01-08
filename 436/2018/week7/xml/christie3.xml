@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="christie3.xsl"?>
+<catalogue>
+  <book>
+    <title>Evil Under the Sun</title>
+    <author>Agatha Christie</author>
+    <country>UK</country>
+    <publisher>Collins Crime Club</publisher>
+    <price>7</price>
+    <year>1941</year>
+  </book>
+  <book>
+    <title>Death on the Nile</title>
+    <author>Agatha Christie</author>
+    <country>UK</country>
+    <publisher>Collins Crime Club</publisher>
+    <price>7 shillings and sixpence</price>
+    <year>1937</year>
+  </book>
+</catalogue>

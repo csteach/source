@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ancient-sites1.xsl"?>
+<ancient_sites>
+	<site>
+		<name language="english"></name>
+		<location></location>
+		<country></country>
+		<description></description>
+		<culture></culture>
+		<history></history>
+		<images>
+			...
+		</images>
+		<notes></notes>
+	</site>
+</ancient_sites>

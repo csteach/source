@@ -1,0 +1,68 @@
+/*
+* style.css 
+* - basic stylesheet for plainjs travel notes
+*/
+
+body {
+    margin: 1%;
+    font-size: 14px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.25em;
+		margin: 1% 0;
+}
+
+/*
+* BUTTONS
+*/
+button {
+    margin: 0.75% 0.75% 0.75% 0;
+    padding: 0.75%;
+    border: 1px solid #000;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: mediumturquoise;
+}
+
+/*
+* FIELDS
+*/
+
+input {
+    margin: 0.75% 0.75% 0.75% 0;
+    padding: 0.75%;
+    border: 1px solid #000;
+    font-size: 1em;
+}
+
+/*
+* CONTENT
+*/
+#banner {
+    margin: 1%;
+    padding: 1%;
+    border-bottom: 1px solid #000;
+}
+
+section {
+    margin: 1%;
+    padding: 2%;
+    border-bottom: 1px solid #000;
+}
+
+#controls {
+	display: none;
+}
+
+#output {
+    min-height: 150px;
+}
