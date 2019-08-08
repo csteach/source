@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- gaming title -->
+    <title>Hangman Game</title>
+  </head>
+  <body>
+    <header>
+      <h2>Waldzell Gaming - Hangman</h2>
+    </header>
+    <main>
+      <!-- elements for playing the game -->
+			<section id="play">
+				<header>
+					<h3>play a game</h3>
+				</header>
+				<form>
+          <!-- player input for guessing a letter -->
+					<input name="guess" placeholder="guess a letter" type="text" maxlength="1" autofocus id="guess" class="txtInput"/>
+          <!-- send guess letter -->
+					<button type="button" id="guessBtn">guess</button>
+				</form>
+      </section>
+      <!-- elements for outputting game updates -->
+      <section id="updates">
+				<header>
+					<h3>game updates</h3>
+				</header>
+				<p id="guessLetter"></p>
+				<p id="wordStatus"></p>
+      </section>
+      <aside>
+        <!-- add some game instructions... -->
+      </aside>
+    </main>
+		<!-- script files -->
+		<script src="./assets/js/game.js"></script>
+  </body>
+</html>
