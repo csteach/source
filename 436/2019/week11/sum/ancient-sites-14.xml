@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ancient-sites-14.xsl"?>
+<ancient_sites>
+	<site>
+		<name language="english">Great Pyramid</name>
+		<location>Giza</location>
+		<country>Egypt</country>
+		<description>Khufu's pyramid on the Giza plateau outside Cairo</description>
+		<culture>Ancient Egypt</culture>
+		<history>
+      <period>Old Kingdom</period>
+			<dynasty>4</dynasty>
+			<year range="start" era="BC">2580</year>
+		</history>
+		<dimensions>
+			<width type="average" unit="metre">230.360</width>
+			<height type="original" unit="metre">146.59</height>
+			<height type="current" unit="metre">138.75</height>
+		</dimensions>
+		<images>
+			<image size="thumb" type="jpg">thumbnail</image>
+			<image size="large" type="jpg">large image</image>
+			<image size="full" type="tif">full image</image>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza">wikipedia</overview>
+			<overview type="heritage" url="http://whc.unesco.org/en/list/86">unesco</overview>
+		</links>
+		<notes>
+			<note type="intro">
+				The Great Pyramid of Giza (also known as the Pyramid of Khufu or the Pyramid of Cheops) is the oldest and largest of the three pyramids in the Giza pyramid complex bordering what is now El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.
+			</note>
+		</notes>
+	</site>
+	<site>
+		<name language="english">Abu Simbel</name>
+		<location>Aswan</location>
+		<country>Egypt</country>
+		<description>temple complex built by Ramesses II</description>
+		<culture>Ancient Egypt</culture>
+		<history>
+      <period>New Kingdom</period>
+			<dynasty>19</dynasty>
+			<year range="start" era="BC">1264</year>
+		</history>
+		<images>
+			<image size="thumb" type="jpg">thumbnail</image>
+			<image size="large" type="jpg">large image</image>
+			<image size="full" type="tif">full image</image>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Abu_Simbel_temples">wikipedia</overview>
+			<overview type="heritage" url="http://whc.unesco.org/en/list/88">unesco</overview>
+		</links>
+		<notes>
+			<note type="intro">
+				The twin temples were originally carved out of the mountainside during the 19th dynasty reign of the Pharaoh Ramesses II in the 13th century BC, as a lasting monument to himself and his queen Nefertari, to commemorate his victory at the Battle of Kadesh.
+			</note>
+		</notes>
+	</site>
+	<site>
+		<name language="english">Akhetaten</name>
+		<location>Tell el Amarna</location>
+		<country>Egypt</country>
+		<description>capital city built by Akhenaten</description>
+		<culture>Ancient Egypt</culture>
+		<history>
+      <period>New Kingdom</period>
+			<dynasty>18</dynasty>
+			<year range="start" era="BC">1346</year>
+			<year range="end" era="BC">1332</year>
+		</history>
+		<images>
+			<image size="thumb" type="jpg">thumbnail</image>
+			<image size="medium" type="jpg">medium image</image>
+			<image size="large" type="jpg">large image</image>
+			<image size="full" type="tif">full image</image>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Amarna">wikipedia</overview>
+			<overview type="heritage" url="http://whc.unesco.org/en/tentativelists/1825/">unesco</overview>
+		</links>
+		<notes>
+			<note type="intro">
+				Amarna was the capital city newly established and built by the Pharaoh Akhenaten of the late Eighteenth Dynasty, and abandoned shortly after his death (1332 BC).[1] The name for the city employed by the ancient Egyptians is written as Akhetaten in English transliteration. Akhetaten means "Horizon of the Aten".
+			</note>
+		</notes>
+	</site>
+</ancient_sites>

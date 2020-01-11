@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ancient-sites-8.xsl"?>
+<ancient_sites>
+	<site>
+		<name language="english">Great Pyramid</name>
+		<location>Giza</location>
+		<country>Egypt</country>
+		<description>Khufu's pyramid on the Giza plateau outside Cairo</description>
+		<culture>Ancient Egypt</culture>
+		<history>
+      <period>Old Kingdom</period>
+			<dynasty>4</dynasty>
+			<year range="start" era="BC">2580</year>
+		</history>
+		<images>
+			<image size="thumb" type="jpg">thumbnail</image>
+			<image size="large" type="jpg">large image</image>
+			<image size="full" type="tif">full image</image>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza">wikipedia</overview>
+			<overview type="heritage" url="http://whc.unesco.org/en/list/86">unesco</overview>
+		</links>
+		<notes>...</notes>
+	</site>
+	<site>
+		<name language="english">Abu Simbel</name>
+		<location>Aswan</location>
+		<country>Egypt</country>
+		<description>temple complex built by Ramesses II</description>
+		<culture>Ancient Egypt</culture>
+		<history>
+      <period>New Kingdom</period>
+			<dynasty>19</dynasty>
+			<year range="start" era="BC">1264</year>
+		</history>
+		<images>
+			<image size="thumb" type="jpg">thumbnail</image>
+			<image size="large" type="jpg">large image</image>
+			<image size="full" type="tif">full image</image>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Abu_Simbel_temples">wikipedia</overview>
+			<overview type="heritage" url="http://whc.unesco.org/en/list/88">unesco</overview>
+		</links>
+		<notes>...</notes>
+	</site>
+	<site>
+		<name language="english">Akhetaten</name>
+		<location>Tell el Amarna</location>
+		<country>Egypt</country>
+		<description>capital city built by Akhenaten</description>
+		<culture>Ancient Egypt</culture>
+		<history>
+      <period>New Kingdom</period>
+			<dynasty>18</dynasty>
+			<year range="start" era="BC">1346</year>
+			<year range="end" era="BC">1332</year>
+		</history>
+		<images>
+			<image size="thumb" type="jpg">thumbnail</image>
+			<image size="large" type="jpg">large image</image>
+			<image size="full" type="tif">full image</image>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Amarna">wikipedia</overview>
+			<overview type="heritage" url="http://whc.unesco.org/en/tentativelists/1825/">unesco</overview>
+		</links>
+		<notes>...</notes>
+	</site>
+</ancient_sites>

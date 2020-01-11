@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<vehicle>
+  <car id="1" type="compact" manufacturer="Ford">
+    <model>Focus</model>
+    <variant>Hatchback</variant>
+    <doors>5</doors>
+    <trim>Sport</trim>
+    <colour>Black</colour>
+    <year>2014</year>
+    <fuel>Unleaded</fuel>
+    <transmission>Manual</transmission>
+  </car>
+  <boat id="1" type="motor" manufacturer="Princess">
+  </boat>
+</vehicle>
